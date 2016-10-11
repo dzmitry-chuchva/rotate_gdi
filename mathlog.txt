@@ -1,0 +1,3 @@
+[    INFO] Math Subsystem ver.0.9a, log started at Feb Wed 15 23:46:43 2006
+[23:46:43] cos, sin tables done
+[23:46:43] model done
